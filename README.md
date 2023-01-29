@@ -117,6 +117,7 @@
 ![S3 static 편집](https://user-images.githubusercontent.com/117608997/215333892-e543f8a2-97b0-45d3-aadc-f8701d158420.jpg)
 ### 💡 S3 버킷 생성 후 파일 업로드 및 퍼블릭 설정, Cloudfront에서 EC2 Load Balancer 배포
 </br>
+
 ### 💡 Static Web Site 파일 S3에 추가
 </br>
 
