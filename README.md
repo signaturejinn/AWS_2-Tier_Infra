@@ -1,6 +1,6 @@
 ## AWS_3-Tier_Infra
 </br>
-***
+* * *
 
 ![large Architecture](https://user-images.githubusercontent.com/117608997/215330995-0e11e851-e3ae-41f7-b1ff-18dd90494823.jpg)
 ###  💡 AWS를 활용해 기본적인 3-Tier 웹 서비스를 제공하고 S3를 활용한 정적 웹사이트 호스팅
