@@ -83,6 +83,7 @@
 ![AutoScaling  생성](https://user-images.githubusercontent.com/117608997/215333774-efba4114-10da-4afd-a857-e95e0df1338e.jpg)
 ### 💡 Auto Scaling 생성 
 **< Auto Scaling 생성 구성>**
+</br>
 **- 1단계**
   - 생성한 시작 구성 선택
 
