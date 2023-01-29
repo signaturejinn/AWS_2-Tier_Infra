@@ -83,20 +83,20 @@
 ![AutoScaling  생성](https://user-images.githubusercontent.com/117608997/215333774-efba4114-10da-4afd-a857-e95e0df1338e.jpg)
 ### 💡 Auto Scaling 생성 
 **< Auto Scaling 생성 구성>**
-**1단계
-- 생성한 시작 구성 선택
+**- 1단계**
+  - 생성한 시작 구성 선택
 
-**2단계
-- Auto Scaling 네트워크 설정
+**- 2단계**
+  - Auto Scaling 네트워크 설정
 
-**3단계
-- 고급 옵션 구성
+**- 3단계**
+  - 고급 옵션 구성
 
-**4단계
-- 그룹 크기 및 크기 조정 정책 구성
+**- 4단계**
+  - 그룹 크기 및 크기 조정 정책 구성
 
-**5,6단계
-- 알림/태그 추가 설정 x
+**- 5,6단계**
+  - 알림/태그 추가 설정 x
 </br>
 
 ![Auto Scaling 확인](https://user-images.githubusercontent.com/117608997/215333831-dca840b4-f27c-480d-bb3c-2de1feeaf6ed.jpg)
