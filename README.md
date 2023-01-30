@@ -30,6 +30,17 @@
 
 </br>
 
+## 🙋🏻‍♂️ 담당 업무
+- VPC 구성
+- 보안그룹 구성
+- CloudFront 구성
+- DB 구성 및 연동
+- File Storage(EFS) 활용
+- Object Storage(S3) 활용한 정적 웹사이트 호스팅
+- Failover Site 구축
+
+</br>
+
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
@@ -44,12 +55,3 @@
 #### - [AWS_3-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
 
 </br>
-
-## 🙋🏻‍♂️ 담당 업무
-- VPC 구성
-- 보안그룹 구성
-- CloudFront 구성
-- DB 구성 및 연동
-- File Storage(EFS) 활용
-- Object Storage(S3) 활용한 정적 웹사이트 호스팅
-- Failover Site 구축
