@@ -1,7 +1,6 @@
 # AWS 를 활용한 3-Tier 웹서비스
-```
-    AWS를 활용해 기본적인 3-Tier 웹서비스를 제공하고 S3를 활용한 정적   웹사이트 호스팅   
-```
+AWS를 활용해 기본적인 3-Tier 웹서비스를 제공하고 S3를 활용한 정적 웹사이트 호스팅   
+
 
 </br>
 
@@ -34,9 +33,6 @@
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
-```
-    AWS를 활용해 기본적인 3-Tier 웹서비스를 제공하고 S3를 활용한 정적   웹사이트 호스팅   
-```
 
 </br>
 
