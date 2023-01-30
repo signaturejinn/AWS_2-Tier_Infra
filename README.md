@@ -1,12 +1,7 @@
 ## AWS_3-Tier_Infra
 </br>
 
-
-![large Architecture](https://user-images.githubusercontent.com/117608997/215330995-0e11e851-e3ae-41f7-b1ff-18dd90494823.jpg)
-###  💡 AWS를 활용해 기본적인 3-Tier 웹 서비스를 제공하고 S3를 활용한 정적 웹사이트 호스팅
-</br>
-<hr/>
-
+## VPC 생성
 ![VPC](https://user-images.githubusercontent.com/117608997/215331179-01215ede-df9d-4391-85bd-c2134a0a23a5.jpg)
 ### 💡 VPC
 - Public Subnet : 2개
@@ -15,13 +10,13 @@
 - NAT Gateway : 2개
 </br>
 
-
 ### 💡 서브넷 추가 생성
 - a 영역 Subnet : 10.0.4.0/24
 - c 영역 Subnet : 10.0.44.0/24
 </br>
 <hr/>
 
+## Security Group 생성
 ![Security Group](https://user-images.githubusercontent.com/117608997/215331194-dd4bff1f-f1fd-4b91-bb0d-6c013822d954.jpg)
 ### 💡 Security Group
 - HTTP : Web Security Group
@@ -31,6 +26,7 @@
 </br>
 <hr/>
 
+## RDS 생성
 ![RDS](https://user-images.githubusercontent.com/117608997/215331199-761ec737-47d4-4f9a-9bda-299510af5daf.jpg)
 ### 💡 DB Subnet 가용영역 추가
 - Private 2a : 10.0.3.0/24
@@ -38,16 +34,19 @@
 </br>
 <hr/>
 
+## EC2 생성
 ![EC2](https://user-images.githubusercontent.com/117608997/215331207-35969406-3e73-4e14-ac3b-99b33f979655.jpg)
 ### 💡 EC2 인스턴스 Public 2c에 생성
 </br>
 <hr/>
 
+## EFS 생성
 ![EFS](https://user-images.githubusercontent.com/117608997/215331212-aa596faf-7e12-41fc-8e49-41950455e771.jpg)
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
+## Load Balancer
 ![Load Balancing](https://user-images.githubusercontent.com/117608997/215331227-b897c32e-d91e-491e-be83-73ed83d58975.jpg)
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
@@ -76,6 +75,7 @@
 </br>
 <hr/>
 
+## Auto Scaling
 ![Auto Scaling](https://user-images.githubusercontent.com/117608997/215331232-bb8dfc33-e5e7-4257-b42b-7b17624839cc.jpg)
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
@@ -136,6 +136,7 @@
 ![S3](https://user-images.githubusercontent.com/117608997/215331385-59945152-4262-484e-88b2-b900cf5e6357.jpg)
 </br>
 
+## S3
 ![S3 static 편집](https://user-images.githubusercontent.com/117608997/215333892-e543f8a2-97b0-45d3-aadc-f8701d158420.jpg)
 ### 💡 S3 버킷 생성 후 파일 업로드 및 퍼블릭 설정, Cloudfront에서 EC2 Load Balancer 배포
 </br>
@@ -144,6 +145,7 @@
 </br>
 <hr/>
 
+## Cloud Front 및 Failover
 ![CloudFront](https://user-images.githubusercontent.com/117608997/215331915-aa259c14-3ef2-49e6-a6aa-93d290e7b517.jpg)
 ### 💡 생성한 도메인을 cloudfront에 대체도메인 추가 후 접속
 </br><hr/>
