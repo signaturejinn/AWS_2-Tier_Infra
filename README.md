@@ -1,6 +1,3 @@
-## AWS_3-Tier_Infra
-</br>
-
 ## VPC 생성
 ![VPC](https://user-images.githubusercontent.com/117608997/215331179-01215ede-df9d-4391-85bd-c2134a0a23a5.jpg)
 ### 💡 VPC
