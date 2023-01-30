@@ -41,7 +41,7 @@
 #### - [AWS 3-Tier Project](https://glen-party-257.notion.site/AWS-b2a7a45238bf4b16971a37967451fbd2)
 
 ### 🔗 Git Link
-#### - [AWS 3-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
+#### - [AWS_3-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
 
 </br>
 
