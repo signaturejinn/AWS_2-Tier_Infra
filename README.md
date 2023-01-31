@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 
 #### OS
-<img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
+<img src="https://img.shields.io/badge/Amazon Linux 2-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
 
 #### DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
