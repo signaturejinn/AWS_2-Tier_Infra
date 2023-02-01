@@ -1,5 +1,5 @@
-# AWS 를 활용한 3-Tier 웹서비스
-### AWS를 활용해 기본적인 3-Tier 웹서비스를 제공하고 S3를 활용한 정적 웹사이트 호스팅   
+# AWS 를 활용한 2-Tier 웹서비스
+### AWS를 활용해 기본적인 2-Tier 웹서비스를 제공하고 S3를 활용한 정적 웹사이트 호스팅   
 
 
 </br>
@@ -54,9 +54,9 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
-#### - [AWS 3-Tier Project](https://glen-party-257.notion.site/AWS-b2a7a45238bf4b16971a37967451fbd2)
+#### - [AWS 2-Tier Project](https://glen-party-257.notion.site/AWS-b2a7a45238bf4b16971a37967451fbd2)
 
 ### 🔗 Git Link
-#### - [AWS_3-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
+#### - [AWS_2-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
 
 </br>
