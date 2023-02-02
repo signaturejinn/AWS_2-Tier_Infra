@@ -39,13 +39,13 @@
 <hr/>
 
 ## EFS 생성
-![image](https://user-images.githubusercontent.com/117608997/216237947-ff85c128-2236-4c6b-95d3-331e87ca3bb2.png)
+![image](https://user-images.githubusercontent.com/117608997/216239048-e721c109-5e94-469c-abbe-ce276a0f3454.png)
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
 ## Load Balancer
-![image](https://user-images.githubusercontent.com/117608997/216236563-7cae5cab-fa2b-4e81-9f89-84183e7baf5a.png)
+![image](https://user-images.githubusercontent.com/117608997/216239094-1ab6dbcb-33e8-4f75-a1f6-004b48068543.png)
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
 <hr/>
@@ -74,7 +74,7 @@
 <hr/>
 
 ## Auto Scaling
-![image](https://user-images.githubusercontent.com/117608997/216237558-3beb3acb-58e1-481c-afff-c195a561fa97.png)
+![image](https://user-images.githubusercontent.com/117608997/216239152-51712d41-d101-4499-9847-da98018a1dd0.png)
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
 <hr/>
