@@ -25,7 +25,7 @@
 <hr/>
 
 ## RDS 생성
-![image](https://user-images.githubusercontent.com/117608997/216232273-8f137762-953b-43fb-9ad8-34abda14a303.png)
+![image](https://user-images.githubusercontent.com/117608997/216239728-24828326-5d04-4457-9736-45dc7583cb5a.png)
 ### 💡 DB Subnet 가용영역 추가
 - Private 2a : 10.0.3.0/24
 - Private 2c : 10.0.33.0/24
@@ -33,19 +33,19 @@
 <hr/>
 
 ## EC2 생성
-![image](https://user-images.githubusercontent.com/117608997/216235877-67c5dc7a-1d11-4a22-9f61-ae4843749587.png)
+![image](https://user-images.githubusercontent.com/117608997/216239762-34ee9587-54bb-4a2e-a646-b93c90ebba11.png)
 ### 💡 EC2 인스턴스 Public 2c에 생성
 </br>
 <hr/>
 
 ## EFS 생성
-![image](https://user-images.githubusercontent.com/117608997/216239048-e721c109-5e94-469c-abbe-ce276a0f3454.png)
+![image](https://user-images.githubusercontent.com/117608997/216239820-112e5ded-2e77-436d-965d-8e416755d3ed.png)
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
 ## Load Balancer
-![image](https://user-images.githubusercontent.com/117608997/216239094-1ab6dbcb-33e8-4f75-a1f6-004b48068543.png)
+![image](https://user-images.githubusercontent.com/117608997/216240182-6ffd92e2-d49c-4840-a574-42755cb9ce4b.png)
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
 <hr/>
@@ -74,7 +74,7 @@
 <hr/>
 
 ## Auto Scaling
-![image](https://user-images.githubusercontent.com/117608997/216239152-51712d41-d101-4499-9847-da98018a1dd0.png)
+![image](https://user-images.githubusercontent.com/117608997/216240235-fa37533c-c6ba-4bd2-8464-98e6d9bcd0a4.png)
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
 <hr/>
