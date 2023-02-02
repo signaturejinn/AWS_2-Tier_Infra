@@ -1,5 +1,5 @@
 ## VPC 생성
-![image](https://user-images.githubusercontent.com/117608997/216254555-253b7dbe-9e1d-4b98-b718-64223a8ebfcc.png)
+![image](https://user-images.githubusercontent.com/117608997/216259987-edfbc8b5-c9c8-490a-99e1-05d022ee8cd1.png)
 
 ### 💡 VPC
 - Public Subnet : 2개
@@ -27,7 +27,7 @@
 <hr/>
 
 ## RDS 생성
-![image](https://user-images.githubusercontent.com/117608997/216254497-5042a211-0783-4dd7-8ead-60ae0bd63c46.png)
+![image](https://user-images.githubusercontent.com/117608997/216259953-f15836b7-b56a-46f2-822b-05da1dff6c4d.png)
 
 ### 💡 DB Subnet 가용영역 추가
 - Private 2a : 10.0.3.0/24
@@ -36,21 +36,21 @@
 <hr/>
 
 ## EC2 생성
-![image](https://user-images.githubusercontent.com/117608997/216254420-1505de12-51db-499f-bd15-254549e8bdc5.png)
+![image](https://user-images.githubusercontent.com/117608997/216259876-ea7d1df6-a432-4690-bc6d-a27a464723a5.png)
 
 ### 💡 EC2 인스턴스 Public 2c에 생성
 </br>
 <hr/>
 
 ## EFS 생성
-![image](https://user-images.githubusercontent.com/117608997/216254238-05bc66aa-5f9a-435f-aae8-e393d86ffce9.png)
+![image](https://user-images.githubusercontent.com/117608997/216259825-36036e40-24e3-4514-bb25-148e436367d0.png)
 
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
 ## Load Balancer
-![image](https://user-images.githubusercontent.com/117608997/216254174-5a0abf9e-58e4-4d7d-8915-0bc49c0ff2e7.png)
+![image](https://user-images.githubusercontent.com/117608997/216259766-5208e658-98b8-4ca3-8a40-5047654022dc.png)
 
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
@@ -80,7 +80,7 @@
 <hr/>
 
 ## Auto Scaling
-![image](https://user-images.githubusercontent.com/117608997/216253938-08f66d61-47a9-4e9f-b876-e2cfd46aec6a.png)
+![image](https://user-images.githubusercontent.com/117608997/216259088-bc696375-c2b2-4134-9c63-59a39ded1ab5.png)
 
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
@@ -139,7 +139,7 @@
 <hr/>
 
 ## S3
-![image](https://user-images.githubusercontent.com/117608997/216253713-940cc21b-9496-41f5-92ac-54e04cc27e2a.png)
+![image](https://user-images.githubusercontent.com/117608997/216258967-2a8dc93e-af2c-43e6-8c98-cb932af01efc.png)
 
 </br>
 
