@@ -48,7 +48,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![image](https://user-images.githubusercontent.com/117608997/216253232-14a6fb22-ffda-48f6-94cb-1e3ea1b47eac.png)
+![image](https://user-images.githubusercontent.com/117608997/216253495-6ec65579-6849-4193-87ed-96ea48ed2f73.png)
 
 </br>
 
