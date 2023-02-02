@@ -1,8 +1,9 @@
 ## VPC 생성
-![VPC](https://user-images.githubusercontent.com/117608997/215331179-01215ede-df9d-4391-85bd-c2134a0a23a5.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216230914-07566cf2-b380-40df-a365-437269e0c9fc.png)
 ### 💡 VPC
 - Public Subnet : 2개
-- Private Subnet : 4개
+- Web Subnet : 2개
+- DB Subnet : 2개
 - EFS Subnet : 2개
 - NAT Gateway : 2개
 </br>
@@ -14,7 +15,7 @@
 <hr/>
 
 ## Security Group 생성
-![Security Group](https://user-images.githubusercontent.com/117608997/215331194-dd4bff1f-f1fd-4b91-bb0d-6c013822d954.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216231144-ec865d79-fa71-4677-a6e2-6ffcd4c34a6d.png)
 ### 💡 Security Group
 - HTTP : Web Security Group
 - SSH : SSH Security Group
@@ -24,7 +25,7 @@
 <hr/>
 
 ## RDS 생성
-![RDS](https://user-images.githubusercontent.com/117608997/215331199-761ec737-47d4-4f9a-9bda-299510af5daf.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216232273-8f137762-953b-43fb-9ad8-34abda14a303.png)
 ### 💡 DB Subnet 가용영역 추가
 - Private 2a : 10.0.3.0/24
 - Private 2c : 10.0.33.0/24
@@ -32,19 +33,19 @@
 <hr/>
 
 ## EC2 생성
-![EC2](https://user-images.githubusercontent.com/117608997/215331207-35969406-3e73-4e14-ac3b-99b33f979655.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216235877-67c5dc7a-1d11-4a22-9f61-ae4843749587.png)
 ### 💡 EC2 인스턴스 Public 2c에 생성
 </br>
 <hr/>
 
 ## EFS 생성
-![EFS](https://user-images.githubusercontent.com/117608997/215331212-aa596faf-7e12-41fc-8e49-41950455e771.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216237947-ff85c128-2236-4c6b-95d3-331e87ca3bb2.png)
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
 ## Load Balancer
-![Load Balancing](https://user-images.githubusercontent.com/117608997/215331227-b897c32e-d91e-491e-be83-73ed83d58975.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216236563-7cae5cab-fa2b-4e81-9f89-84183e7baf5a.png)
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
 <hr/>
@@ -73,7 +74,7 @@
 <hr/>
 
 ## Auto Scaling
-![Auto Scaling](https://user-images.githubusercontent.com/117608997/215331232-bb8dfc33-e5e7-4257-b42b-7b17624839cc.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216237558-3beb3acb-58e1-481c-afff-c195a561fa97.png)
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
 <hr/>
