@@ -134,20 +134,23 @@
 </br>
 <hr/>
 
-![S3](https://user-images.githubusercontent.com/117608997/215331385-59945152-4262-484e-88b2-b900cf5e6357.jpg)
+## S3
+![image](https://user-images.githubusercontent.com/117608997/216248681-3635ffce-c70c-4885-895b-4a2cd7ab0993.png)
+
 </br>
 
-## S3
 ![S3 static 편집](https://user-images.githubusercontent.com/117608997/215333892-e543f8a2-97b0-45d3-aadc-f8701d158420.jpg)
 ### 💡 S3 버킷 생성 후 파일 업로드 및 퍼블릭 설정, Cloudfront에서 EC2 Load Balancer 배포
 </br>
 
+![S3](https://user-images.githubusercontent.com/117608997/215331385-59945152-4262-484e-88b2-b900cf5e6357.jpg)
 ### 💡 Static Web Site 파일 S3에 추가
 </br>
 <hr/>
 
 ## Cloud Front 및 Failover
 ![CloudFront](https://user-images.githubusercontent.com/117608997/215331915-aa259c14-3ef2-49e6-a6aa-93d290e7b517.jpg)
+
 ### 💡 생성한 도메인을 cloudfront에 대체도메인 추가 후 접속
 </br><hr/>
 
