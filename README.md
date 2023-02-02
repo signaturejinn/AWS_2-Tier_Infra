@@ -48,7 +48,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
+![image](https://user-images.githubusercontent.com/117608997/216239206-f209885e-b509-45ec-8d9f-2227c192c8e8.png)
 
 </br>
 
