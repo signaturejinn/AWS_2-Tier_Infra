@@ -48,7 +48,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![image](https://user-images.githubusercontent.com/117608997/216543105-be44fb71-8e62-4d4e-b060-be1a1b3526d8.png)
+![image](https://user-images.githubusercontent.com/117608997/216543364-c61cc44a-8281-400f-8e5b-24a5ca3f6624.png)
 
 </br>
 
@@ -57,6 +57,6 @@
 #### - [AWS 2-Tier Project](https://glen-party-257.notion.site/AWS-b2a7a45238bf4b16971a37967451fbd2)
 
 ### 🔗 Git Link
-#### - [AWS_2-Tier](https://github.com/signaturejinn/AWS_3-Tier_Infra/tree/main/AWS_3-Tier)
+#### - [AWS_2-Tier](https://github.com/signaturejinn/AWS_Infra_Project/tree/main/AWS_2-Tier)
 
 </br>
