@@ -1,5 +1,6 @@
 ## VPC 생성
-![image](https://user-images.githubusercontent.com/117608997/216259987-edfbc8b5-c9c8-490a-99e1-05d022ee8cd1.png)
+![image](https://user-images.githubusercontent.com/117608997/216535436-c901f042-fe03-4325-8774-702eb021f1d5.png)
+
 
 ### 💡 VPC
 - Public Subnet : 2개
@@ -20,14 +21,13 @@
 
 ### 💡 Security Group
 - HTTP : Web Security Group
-- SSH : SSH Security Group
 - MySQL : DB Security Group
 - EFS : EFS Security Group
 </br>
 <hr/>
 
 ## RDS 생성
-![image](https://user-images.githubusercontent.com/117608997/216259953-f15836b7-b56a-46f2-822b-05da1dff6c4d.png)
+![image](https://user-images.githubusercontent.com/117608997/216536797-4bf0b531-099e-4b9b-9d3e-9cb9f4e2bce0.png)
 
 ### 💡 DB Subnet 가용영역 추가
 - Private 2a : 10.0.3.0/24
@@ -36,21 +36,21 @@
 <hr/>
 
 ## EC2 생성
-![image](https://user-images.githubusercontent.com/117608997/216259876-ea7d1df6-a432-4690-bc6d-a27a464723a5.png)
+![image](https://user-images.githubusercontent.com/117608997/216537101-cc064bbf-7980-4581-b379-a58460b42a59.png)
 
 ### 💡 EC2 인스턴스 Public 2c에 생성
 </br>
 <hr/>
 
 ## EFS 생성
-![image](https://user-images.githubusercontent.com/117608997/216259825-36036e40-24e3-4514-bb25-148e436367d0.png)
+![image](https://user-images.githubusercontent.com/117608997/216538453-0aab5944-caf7-4b91-a8ff-2451d5e8df2b.png)
 
 ### 💡 EFS 생성 후 영구 마운트 설정
 </br>
 <hr/>
 
 ## Load Balancer
-![image](https://user-images.githubusercontent.com/117608997/216259766-5208e658-98b8-4ca3-8a40-5047654022dc.png)
+![image](https://user-images.githubusercontent.com/117608997/216538813-74fb2c19-214e-4d61-b967-7d5ad354d2a5.png)
 
 ### 💡 Load Balancer Target Group 후 Load Balancer 생성
 </br>
@@ -80,7 +80,7 @@
 <hr/>
 
 ## Auto Scaling
-![image](https://user-images.githubusercontent.com/117608997/216259088-bc696375-c2b2-4134-9c63-59a39ded1ab5.png)
+![image](https://user-images.githubusercontent.com/117608997/216540912-9b53d90d-fb8b-4185-85ee-9c6189dfe530.png)
 
 ### 💡 Auto Scaling AMI 이미지로 시작 그룹 생성 후 Auto Scaling 생성
 </br>
@@ -139,7 +139,7 @@
 <hr/>
 
 ## S3
-![image](https://user-images.githubusercontent.com/117608997/216258967-2a8dc93e-af2c-43e6-8c98-cb932af01efc.png)
+![image](https://user-images.githubusercontent.com/117608997/216542241-f31814a2-ca2b-4f41-8c11-fefb4bc88554.png)
 
 </br>
 
