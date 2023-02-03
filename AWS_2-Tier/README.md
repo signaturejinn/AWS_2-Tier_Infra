@@ -17,7 +17,7 @@
 <hr/>
 
 ## Security Group 생성
-![image](https://user-images.githubusercontent.com/117608997/216231144-ec865d79-fa71-4677-a6e2-6ffcd4c34a6d.png)
+![image](https://user-images.githubusercontent.com/117608997/216542776-fae05863-072e-4fe2-ae94-567035ce83e2.png)
 
 ### 💡 Security Group
 - HTTP : Web Security Group
